@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @csSTK
 - 👀 I’m interested in gaming and programming
-- 🌱 I’m currently learning python and JS
+- 🌱 I’m currently learning python, JS and Swift
 - 📫 How to reach me: Discord == STK | Paul#9007
