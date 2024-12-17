@@ -14,5 +14,3 @@
 <p><img align="left" src="https://readme-stats-csstks-projects.vercel.app/api/top-langs?username=csstk&show_icons=true&locale=en&layout=compact&theme=radical" alt="csstk" /></p>
 
 <p>&nbsp;<img align="center" src="https://readme-stats-csstks-projects.vercel.app/api?username=csstk&show_icons=true&locale=en&theme=radical" alt="csstk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csstk&theme=radical" alt="csstk" /></p>
